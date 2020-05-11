@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Atomic Structure Quiz</string>
+    <string name="score_0">Score:</string>
+    <string name="submit">Submit</string>
+    <string name="answer">Answer</string>
+
+    <string name="T1_Q">Photon of which light has maximum energy</string>
+    <string name="T1_Ans1">red</string>
+    <string name="T1_Ans2">blue</string>
+    <string name="T1_Ans3">violet</string>
+    <string name="T1_Ans4">green</string>
+
+    <string name="T2_Q">What are the three particles that make up an atom?</string>
+    <string name="T2_Ans1">protons</string>
+    <string name="T2_Ans2">isotopes</string>
+    <string name="T2_Ans3">electrons</string>
+    <string name="T2_Ans4">neutrons</string>
+
+    <string name="T3_Q">A neutron carries a positive charge.</string>
+    <string name="T3_Ans1">true</string>
+    <string name="T3_Ans2">false</string>
+
+    <string name="T4_Q">Which metal was used by Rutherford in his alpha-scattering experiment?</string>
+    <string name="T4_Ans">gold</string>
+</resources>
